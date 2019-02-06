@@ -1,0 +1,10 @@
+C:\Users\Dominic\source\repos\RPG Case Study\SpriteLibrary\bin\Debug\SpriteLibrary.XML
+C:\Users\Dominic\source\repos\RPG Case Study\SpriteLibrary\bin\Debug\SpriteLibrary.dll
+C:\Users\Dominic\source\repos\RPG Case Study\SpriteLibrary\bin\Debug\SpriteLibrary.pdb
+C:\Users\Dominic\source\repos\RPG Case Study\SpriteLibrary\obj\Debug\SpriteLibrary.csprojAssemblyReference.cache
+C:\Users\Dominic\source\repos\RPG Case Study\SpriteLibrary\obj\Debug\SpriteLibrary.Properties.Resources.resources
+C:\Users\Dominic\source\repos\RPG Case Study\SpriteLibrary\obj\Debug\SpriteLibrary.SpriteEntryForm.resources
+C:\Users\Dominic\source\repos\RPG Case Study\SpriteLibrary\obj\Debug\SpriteLibrary.csproj.GenerateResource.cache
+C:\Users\Dominic\source\repos\RPG Case Study\SpriteLibrary\obj\Debug\SpriteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\source\repos\RPG Case Study\SpriteLibrary\obj\Debug\SpriteLibrary.dll
+C:\Users\Dominic\source\repos\RPG Case Study\SpriteLibrary\obj\Debug\SpriteLibrary.pdb

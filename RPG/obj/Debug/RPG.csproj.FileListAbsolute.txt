@@ -1,0 +1,44 @@
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\bin\Debug\RPG.exe.config
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\bin\Debug\RPG.exe
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\bin\Debug\RPG.pdb
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\bin\Debug\RandomNameGenerator.dll
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\bin\Debug\SpriteLibrary.dll
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\bin\Debug\SpriteLibrary.pdb
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\bin\Debug\SpriteLibrary.xml
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.GUI.Character_Creator.resources
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.GUI.Gameover.resources
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.GUI.Load.resources
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.GUI.Main_Game.resources
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.GUI.Main_Menu.resources
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.GUI.MerchantInventory.resources
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.GUI.PlayerInventory.resources
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.GUI.SkillMenu.resources
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.csproj.CopyComplete
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.exe
+C:\Users\Dominic\source\repos\RPG Case Study\RPG\obj\Debug\RPG.pdb
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\bin\Debug\RPG.exe.config
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\bin\Debug\RPG.exe
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\bin\Debug\RPG.pdb
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\bin\Debug\RandomNameGenerator.dll
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\bin\Debug\SpriteLibrary.dll
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\bin\Debug\SpriteLibrary.pdb
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\bin\Debug\SpriteLibrary.xml
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.csprojAssemblyReference.cache
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.GUI.Character_Creator.resources
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.GUI.Gameover.resources
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.GUI.Load.resources
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.GUI.Main_Game.resources
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.GUI.Main_Menu.resources
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.GUI.MerchantInventory.resources
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.GUI.PlayerInventory.resources
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.GUI.SkillMenu.resources
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.csproj.CopyComplete
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.exe
+C:\Users\Dominic\Google Drive\RPG Case Study\RPG\obj\Debug\RPG.pdb

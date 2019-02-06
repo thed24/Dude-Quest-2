@@ -1,0 +1,21 @@
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\RPG Testing.dll
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\RPG Testing.pdb
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\RPG.exe
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\SpriteLibrary.dll
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\RandomNameGenerator.dll
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\RPG.pdb
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\RPG.exe.config
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\SpriteLibrary.pdb
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\bin\Debug\SpriteLibrary.xml
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\obj\Debug\RPG Testing.csprojAssemblyReference.cache
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\obj\Debug\RPG Testing.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\obj\Debug\RPG Testing.csproj.CopyComplete
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\obj\Debug\RPG Testing.dll
+C:\Users\Dominic\source\repos\RPG Case Study\RPG Testing\obj\Debug\RPG Testing.pdb

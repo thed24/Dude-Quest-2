@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{086B3E3B-EC8C-45F2-8A80-0D460F6A0416}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RPG</RootNamespace>
+    <AssemblyName>RPG</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="RandomNameGenerator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RandomNameGenerator.1.0.4\lib\RandomNameGenerator.dll</HintPath>
+    </Reference>
+    <Reference Include="SpriteLibrary">
+      <HintPath>..\SpriteLibrary\bin\Debug\SpriteLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUI\Character Creator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Character Creator.Designer.cs">
+      <DependentUpon>Character Creator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Gameover.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Gameover.Designer.cs">
+      <DependentUpon>Gameover.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Load.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Load.Designer.cs">
+      <DependentUpon>Load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Main Game.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Main Game.Designer.cs">
+      <DependentUpon>Main Game.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Main Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Main Menu.Designer.cs">
+      <DependentUpon>Main Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Merchant Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Merchant Inventory.Designer.cs">
+      <DependentUpon>Merchant Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Player Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Player Inventory.Designer.cs">
+      <DependentUpon>Player Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SkillMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SkillMenu.Designer.cs">
+      <DependentUpon>SkillMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Armor.cs" />
+    <Compile Include="Models\Bandit.cs" />
+    <Compile Include="Models\Entity.cs" />
+    <Compile Include="Models\Item.cs" />
+    <Compile Include="Models\Merchant.cs" />
+    <Compile Include="Models\Monster.cs" />
+    <Compile Include="Models\Player.cs" />
+    <Compile Include="Models\PlayerSaveLoad.cs" />
+    <Compile Include="Models\Search.cs" />
+    <Compile Include="Models\Skills.cs" />
+    <Compile Include="Models\Slime.cs" />
+    <Compile Include="Models\Weapon.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\Character Creator.resx">
+      <DependentUpon>Character Creator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Gameover.resx">
+      <DependentUpon>Gameover.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Load.resx">
+      <DependentUpon>Load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Main Game.resx">
+      <DependentUpon>Main Game.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Main Menu.resx">
+      <DependentUpon>Main Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Merchant Inventory.resx">
+      <DependentUpon>Merchant Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Player Inventory.resx">
+      <DependentUpon>Player Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SkillMenu.resx">
+      <DependentUpon>SkillMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TitleScreen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cloud_Portrait.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tifa_Portrait.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cloud_Portrait1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tifa_lockhart_avatar_by_helryu-daaz7kb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerIdle.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Player1Idle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Player1Attack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\100003303_idle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\100003303_atk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FFIV_DS_Plainbg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unit_atk_207000307.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unit_dead_207000106.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unit_dead_207000307.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unit_idle_207000307.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unit_magic_atk_207000106.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unit_magic_atk_207000307.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\100003303_dead.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SlimeAttack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SlimeIdle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SlimeDead.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\306000805_magic_atk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Final_Fantasy_VII_Sound_Effects_-_Cursor_Move-pqOiARHjD5o.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Final_Fantasy_XII_-_Opening_Theme-Dpl7P9-B1Ho.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

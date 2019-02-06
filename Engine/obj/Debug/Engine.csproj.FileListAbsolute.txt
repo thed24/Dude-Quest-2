@@ -1,0 +1,8 @@
+C:\Users\Dominic\source\repos\RPG Case Study\Engine\bin\Debug\Engine.dll
+C:\Users\Dominic\source\repos\RPG Case Study\Engine\bin\Debug\Engine.pdb
+C:\Users\Dominic\source\repos\RPG Case Study\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\Dominic\source\repos\RPG Case Study\Engine\obj\Debug\Engine.GUI.Character_Creator.resources
+C:\Users\Dominic\source\repos\RPG Case Study\Engine\obj\Debug\Engine.csproj.GenerateResource.cache
+C:\Users\Dominic\source\repos\RPG Case Study\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\source\repos\RPG Case Study\Engine\obj\Debug\Engine.dll
+C:\Users\Dominic\source\repos\RPG Case Study\Engine\obj\Debug\Engine.pdb
